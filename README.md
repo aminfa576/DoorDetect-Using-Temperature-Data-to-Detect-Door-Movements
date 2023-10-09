@@ -21,11 +21,6 @@ The dataset, `room-temperature.csv`, contains timestamped temperature readings f
 - scikit-learn
 
 
-## How to Run
-- Clone the repository to your local machine.
-- Install the necessary Python packages.
-- Run the Jupyter Notebook or Python script.
-
 ## Conclusion
 DoorDetect successfully identified potential door movements by analyzing temperature readings and clustering data points into distinct groups. The project demonstrated the effective application of PCA and K-Means clustering techniques to discern patterns within the temperature data, providing valuable insights into environmental changes within the monitored room. The findings from this project suggest potential applications in security, energy management, and smart building solutions, showcasing the practical implications of data-driven decision-making processes in various domains.
 
